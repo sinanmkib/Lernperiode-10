@@ -9,3 +9,5 @@ Ich habe mich heute primär mit der Biografie-Website beschäftigt, d.h ich habe
 
 # 16.5 
 Ich werde die Website fast abschliessen, Design, Funktionen und Animationen.
+
+Ich habe an meiner Website gearbeiten. Spezifisch habe ich verschiedene Animationen erstellt und ich habe Das Design nochmals komplett überarbeited. Die Seite "Projekte" habe ich auch überarbeited (Seitendesign, Fehlerbehebung und Funktionene) und nun mögliche links zu Projekten erstellt. Ich habe auch noch kurz den Auftrag von HZ1 beim Modul angeschaut und wiederholt.
